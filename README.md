@@ -3,7 +3,7 @@ The Customer Accceleration Team (CAT), part of the Microsoft Customer Advisory T
 
 Our charter includes engaging with key enterprise customers and guiding their platform implementation to success, sharing with the world what we learn from our engagements with customers in guidance and tools, and celebrating the success of our customers via compelling customer stories.
 
-This repository contains the Power CAT website at https://microsoft.github.io/powercat.
+This repository contains the Power CAT website at https://dayour.github.io/cat.
 
 
 ## Contributing
